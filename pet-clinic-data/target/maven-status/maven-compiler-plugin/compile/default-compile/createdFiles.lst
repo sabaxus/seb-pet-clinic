@@ -1,0 +1,5 @@
+net\seb\spring\sebpetclinic\model\Pet.class
+net\seb\spring\sebpetclinic\model\Vet.class
+net\seb\spring\sebpetclinic\model\Owner.class
+net\seb\spring\sebpetclinic\model\PetType.class
+net\seb\spring\sebpetclinic\model\Person.class
