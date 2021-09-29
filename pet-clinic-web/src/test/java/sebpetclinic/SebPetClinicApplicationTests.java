@@ -1,4 +1,4 @@
-package net.seb.spring.sebpetclinic;
+package sebpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
