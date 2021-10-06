@@ -1,5 +1,14 @@
 net\seb\spring\sebpetclinic\model\Pet.class
-net\seb\spring\sebpetclinic\model\Vet.class
-net\seb\spring\sebpetclinic\model\Owner.class
 net\seb\spring\sebpetclinic\model\PetType.class
+net\seb\spring\sebpetclinic\services\PetService.class
+net\seb\spring\sebpetclinic\services\OwnerService.class
+net\seb\spring\sebpetclinic\model\Vet.class
+net\seb\spring\sebpetclinic\services\map\AbstractMapService.class
+net\seb\spring\sebpetclinic\services\map\OwnerServiceMap.class
+net\seb\spring\sebpetclinic\model\BaseEntity.class
+net\seb\spring\sebpetclinic\services\map\PetServiceMap.class
+net\seb\spring\sebpetclinic\services\VetService.class
 net\seb\spring\sebpetclinic\model\Person.class
+net\seb\spring\sebpetclinic\model\Owner.class
+net\seb\spring\sebpetclinic\services\CrudService.class
+net\seb\spring\sebpetclinic\services\map\VetServiceMap.class
