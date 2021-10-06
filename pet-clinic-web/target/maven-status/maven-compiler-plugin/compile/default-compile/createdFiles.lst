@@ -1,0 +1,5 @@
+net\seb\spring\sebpetclinic\controllers\OwnerController.class
+net\seb\spring\sebpetclinic\bootstrap\DataLoader.class
+net\seb\spring\sebpetclinic\controllers\IndexController.class
+net\seb\spring\sebpetclinic\controllers\VetController.class
+net\seb\spring\sebpetclinic\SebPetClinicApplication.class
