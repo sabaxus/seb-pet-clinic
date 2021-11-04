@@ -29,12 +29,7 @@ net\seb\spring\sebpetclinic\repositories\PetRepository.class
 net\seb\spring\sebpetclinic\model\Vet$VetBuilder.class
 net\seb\spring\sebpetclinic\services\springdatajpa\SpecialtySDJpaService.class
 net\seb\spring\sebpetclinic\services\PetTypeService.class
-net\seb\spring\sebpetclinic\model\Pet$PetBuilder.class
-net\seb\spring\sebpetclinic\model\BaseEntity.class
-net\seb\spring\sebpetclinic\model\Person.class
 net\seb\spring\sebpetclinic\model\Specialty$SpecialtyBuilder.class
 net\seb\spring\sebpetclinic\services\springdatajpa\VisitSDJpaService.class
 net\seb\spring\sebpetclinic\model\Visit.class
-net\seb\spring\sebpetclinic\model\Owner$OwnerBuilder.class
-net\seb\spring\sebpetclinic\model\Owner.class
 net\seb\spring\sebpetclinic\services\springdatajpa\VetSDJpaService.class
