@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: net.seb.spring.sebpetclinic.SebPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.258 s - in net.seb.spring.sebpetclinic.SebPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.885 s - in net.seb.spring.sebpetclinic.SebPetClinicApplicationTests

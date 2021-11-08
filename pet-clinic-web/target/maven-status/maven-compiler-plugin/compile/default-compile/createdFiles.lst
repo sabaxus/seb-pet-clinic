@@ -4,4 +4,5 @@ net\seb\spring\sebpetclinic\controllers\IndexController.class
 net\seb\spring\sebpetclinic\controllers\VetController.class
 net\seb\spring\sebpetclinic\controllers\PetController.class
 net\seb\spring\sebpetclinic\SebPetClinicApplication.class
+net\seb\spring\sebpetclinic\controllers\VisitController.class
 net\seb\spring\sebpetclinic\formatters\PetTypeFormatter.class
